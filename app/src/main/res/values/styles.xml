@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Edit_text">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_margin">10dp</item>
+
+    </style>
+
+
+    <style name="Button">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_margin">10dp</item>
+        <item name="android:layout_gravity">center</item>
+
+    </style>
+
+    <style name="Recycler_View">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">match_parent</item>
+        <item name="android:layout_margin">10dp</item>
+
+    </style>
+</resources>
